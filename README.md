@@ -36,3 +36,13 @@ npm run dev
 
 ## Contributions
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+## About the Developer
+Shailee Patel
+Undergraduate Student, B.S. in Computer Engineering, Minor in Statistics
+University of Illinois Urbana-Champaign (2023 - 2027)
+
+Contact:
+Email: shaileepatel05@gmail.com
+LinkedIn: linkedin.com/in/shailee-patel-04481b285
+GitHub: github.com/shailee2
